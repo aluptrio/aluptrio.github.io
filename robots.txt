@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aluptrio.github.io/sitemap.aluptrio.gz
+Sitemap: https://aluptrio.github.io/app/sitemap.aluptrio.gz
+Sitemap: https://aluptrio.github.io/assets/sitemap.aluptrio.gz
+Sitemap: https://aluptrio.github.io/css/sitemap.aluptrio.gz
+Sitemap: https://aluptrio.github.io/data/sitemap.aluptrio.gz
+Sitemap: https://aluptrio.github.io/includes/sitemap.aluptrio.gz
+Sitemap: https://aluptrio.github.io/item/sitemap.aluptrio.gz
+Sitemap: https://aluptrio.github.io/src/sitemap.aluptrio.gz
